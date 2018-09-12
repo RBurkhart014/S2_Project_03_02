@@ -18,6 +18,8 @@ html {
     background-color: rgb(173, 189, 227);
 }
 
+/* The color of the entire pages background. */
+
 body {
     background-color: rgb(227, 210, 173);
     font-family: 'Century Gothic', sans-serif;
@@ -107,7 +109,7 @@ aside p:nth-of-type(even) {
 /* Blockquote Styles */
 blockquote {
     background-color: rgb(173, 189, 227);
-    color: rgba(255, 255, 255, 0.65)
+    color: rgba(255, 255, 255, 0.65);
 }
 
 blockquote p {
