@@ -25,11 +25,15 @@ body {
     font-family: 'Century Gothic', sans-serif;
 }
 
+/* Made the main page a tanish,whiteish color, and use this font family to make the text look nice. */
+
 body footer {
     background-color: rgb(208, 184, 109);
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+/* This made the bar on the bottom turn a yellowish color and it made the text spaced out precisely. */
 
 address {
     font-weight: normal;
@@ -38,14 +42,21 @@ address {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+/* Made the address on the bottom fancy, spaced out fancily, & aligned correctly. */
+
 /* Heading Styles */
 h1 {
     font-weight: normal;
 }
 
+/* Changed the size of the font to bolded normally. */
+
 h2 {
     font-weight: normal;
 }
+
+/* Changed the size of the font to bolded normally. */
 
 /* Navigation Styles */
 nav>ul {
@@ -54,14 +65,20 @@ nav>ul {
     font-size: 0.9em;
 }
 
+/* This made the links on the side properly arranged. */
+
 nav a:link, nav a:visited {
     text-decoration: none;
     color: rgb(43, 59, 125);
 }
+/* 
+This made the colors of the links blue  */
 
 nav a:active, nav a:hover {
     color: rgb(212, 35, 35);
 }
+
+/* This made the links turn red when i hover over them. */
 
 /* Article Styles */
 #tour_summary h1 {
@@ -69,42 +86,62 @@ nav a:active, nav a:hover {
     letter-spacing: 0.2em;
 }
 
+
+
 p #tour_summary h1 {
 font-size: 1.1em;
 }
 
+/* This helped make the tex on the side niceley spaced. */
+
 article#tour_summary {
     font-size: 1.2em;
 }
+
+/* This helped make the tex on the side niceley spaced. */
 
 /* Aside Styles */
 aside#tour_itinerary h1 {
     font-size: 1.2em;
 }
 
+/* This helped make the tex on the side niceley spaced. */
+
 aside#tour_itinerary h2 {
     font-size: 0.9em;
 }
+
+/* This helped make the tex on the side niceley spaced. */
 
 aside#tour_itinerary p {
     font-size: 0.8em;
 }
 
+/* This helped make the tex on the side niceley spaced. */
+
 aside h2:nth-of-type(odd) {
     color: rgb(79, 91, 40)
 }
+
+/* This allowed the color on the odd 3 paragraph texts to be green. */
 
 aside p:nth-of-type(odd) {
     color: rgb(79, 91, 40)
 }
 
+/* This allowed the color on the odd 3 paragraph texts to be green. */
+
 aside h2:nth-of-type(even) {
     color: rgb(81, 95, 175)
 }
 
+/* This allowed the color on the even 3 paragraph texts to turn blue. */
+
 aside p:nth-of-type(even) {
     color: rgb(81, 95, 175)
 }
+
+/* This allowed the color on the even 3 paragraph texts to turn blue. */
 
 /* Blockquote Styles */
 blockquote {
@@ -112,9 +149,13 @@ blockquote {
     color: rgba(255, 255, 255, 0.65);
 }
 
+/* This placed a blueish block around the text floating twoards the bottom right. */
+
 blockquote p {
     padding-top: 2.5px;
     padding-bottom: 2.5px;
     padding-left: 10px;
     padding-right: 10px;
 }
+
+/* This spaced out the text in the bluish box to appear nice. */
